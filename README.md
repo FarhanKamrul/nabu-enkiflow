@@ -2,6 +2,8 @@
 
 Nabu is a production-grade feedback aggregation and analysis platform built on Cloudflare's serverless stack. It unified customer feedback from Discord, GitHub, Twitter, and Support channels into a single, high-impact dashboard.
 
+![Dashboard](dashboard_ss.png)
+
 ## Key Features
 
 - **Unified Aggregation**: Real-time feedback collection from multiple sources.
