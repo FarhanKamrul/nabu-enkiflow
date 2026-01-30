@@ -1,4 +1,4 @@
-# Cloudflare Product Friction Log - Feedback Aggregation Challenge
+# Cloudflare Product Friction Log
 
 This log documents the developer experience (DX) and technical hurdles encountered while building the "Nabu" feedback aggregation system on the Cloudflare Developer Platform.
 
